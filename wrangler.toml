@@ -1,5 +1,5 @@
-name = "sendgrid-proxy"
-main = "src/index.js"
+name = "sendgrid-proxy-worker"
+main = "worker.js"
 compatibility_date = "2025-04-14"
 
 [triggers]

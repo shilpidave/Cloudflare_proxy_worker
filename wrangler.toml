@@ -1,0 +1,6 @@
+name = "sendgrid-proxy"
+main = "src/index.js"
+compatibility_date = "2025-04-14"
+
+[triggers]
+routes = ["https://em4166.infowatchdaily.com/*"]
